@@ -1,0 +1,113 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[002] # Pueblo Hikari
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
+[042] # Ruta 1
+Land,21
+    40,PIDGEY,3,6
+    40,RATTATA,3,5
+    10,SENTRET,2,5
+    5,PIDGEY,5,7
+    5,RATTATA,4,5
+LandNight,21
+    40,RATTATA,3,6
+    30,HOOTHOOT,3,5
+    20,SPINARAK,2,6
+    10,CLEFAIRY,5,7
+#-------------------------------
+[014] # Ruta 2
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
+[015] # Ruta 3
+Land,21
+    40,RATTATA,3,7
+    40,MEOWTH,3,5
+    9,CATERPIE,2,5
+    9,STARLY,4,6
+    1,MINCCINO,6
+    1,POOCHYENA,4
+LandNight,21
+   40,RATTATA,3,7
+    40,MEOWTH,3,5
+    9,CATERPIE,2,5
+    9,STARLY,4,6
+    1,MINCCINO,6
+    1,POOCHYENA,4
+#-------------------------------
+[020] # Ruta 4
+Land,21
+    40,MINCCINO,4,7
+    40,MEOWTH,6,7
+    9,POOCHYENA,2,5
+    9,RATTATA,3,7
+    1,MILTANK,6
+    1,TAUROS,6
+LandNight,21
+    40,MINCCINO,4,7
+    40,MEOWTH,6,7
+    9,POOCHYENA,2,5
+    9,RATTATA,3,7
+    1,MILTANK,6
+    1,TAUROS,6
+#-------------------------------
+[025] # Ruta 5
+Land,21
+    40,MINCCINO,7,10
+    40,SKITTY,8,10
+    9,NIDORANmA,9,10
+    9,NIDORANfE,9,10
+    1,YANMA,10
+    1,PANSAGE,10
+LandNight,21
+    40,MINCCINO,7,10
+    40,SKITTY,8,10
+    9,NIDORANmA,9,10
+    9,NIDORANfE,9,10
+    1,YANMA,10
+    1,PANSAGE,10
+#-------------------------------
+[027] # Ruta 6
+Land,21
+    40,WEEDLE,7,10
+    40,PANSAGE,7,11
+    9,POOCHYENA,7,10
+    9,NINCADA,7,10
+    1,RALTS,10
+    1,PIKACHU,10
+LandNight,21
+    40,WEEDLE,7,10
+    40,PANSAGE,7,11
+    9,POOCHYENA,7,10
+    9,NINCADA,7,10
+    1,RALTS,10
+    1,PIKACHU,10
+#-------------------------------

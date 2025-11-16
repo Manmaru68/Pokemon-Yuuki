@@ -1,0 +1,679 @@
+113: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 1
+  order: 100
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+130: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 1
+  order: 101
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+107: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 2
+  order: 102
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 1536
+151: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 103
+  parent_id: 107
+  scroll_x: 320
+  scroll_y: 240
+152: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 104
+  parent_id: 107
+  scroll_x: 320
+  scroll_y: 240
+136: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 2
+  order: 105
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+110: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 3
+  order: 106
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+153: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 107
+  parent_id: 110
+  scroll_x: 320
+  scroll_y: 272
+154: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 108
+  parent_id: 110
+  scroll_x: 320
+  scroll_y: 240
+155: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 109
+  parent_id: 110
+  scroll_x: 320
+  scroll_y: 240
+122: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 3
+  order: 110
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+104: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 4
+  order: 111
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+156: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 112
+  parent_id: 104
+  scroll_x: 320
+  scroll_y: 272
+157: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 113
+  parent_id: 104
+  scroll_x: 320
+  scroll_y: 240
+158: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 114
+  parent_id: 104
+  scroll_x: 320
+  scroll_y: 240
+133: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 4
+  order: 115
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+114: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 5
+  order: 116
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+159: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 117
+  parent_id: 114
+  scroll_x: 320
+  scroll_y: 240
+160: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 118
+  parent_id: 114
+  scroll_x: 320
+  scroll_y: 240
+120: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 5
+  order: 119
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+105: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 6
+  order: 120
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+161: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 121
+  parent_id: 105
+  scroll_x: 320
+  scroll_y: 272
+162: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 122
+  parent_id: 105
+  scroll_x: 320
+  scroll_y: 240
+163: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 123
+  parent_id: 105
+  scroll_x: 320
+  scroll_y: 240
+138: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 6
+  order: 124
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+102: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 7
+  order: 125
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+164: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 126
+  parent_id: 102
+  scroll_x: 320
+  scroll_y: 240
+165: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 127
+  parent_id: 102
+  scroll_x: 320
+  scroll_y: 240
+140: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 7
+  order: 128
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+135: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 8
+  order: 129
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+129: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 9
+  order: 130
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+118: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 8
+  order: 131
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+166: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 132
+  parent_id: 118
+  scroll_x: 320
+  scroll_y: 272
+167: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 133
+  parent_id: 118
+  scroll_x: 320
+  scroll_y: 240
+168: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 134
+  parent_id: 118
+  scroll_x: 320
+  scroll_y: 240
+126: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 10
+  order: 135
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+108: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 9
+  order: 136
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+169: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 137
+  parent_id: 108
+  scroll_x: 320
+  scroll_y: 240
+170: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 138
+  parent_id: 108
+  scroll_x: 320
+  scroll_y: 240
+144: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 11
+  order: 139
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+109: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 10
+  order: 140
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+171: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 141
+  parent_id: 109
+  scroll_x: 320
+  scroll_y: 272
+172: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 142
+  parent_id: 109
+  scroll_x: 320
+  scroll_y: 240
+173: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 143
+  parent_id: 109
+  scroll_x: 320
+  scroll_y: 240
+128: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 12
+  order: 144
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+101: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 11
+  order: 145
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+174: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 146
+  parent_id: 101
+  scroll_x: 320
+  scroll_y: 240
+175: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 147
+  parent_id: 101
+  scroll_x: 320
+  scroll_y: 240
+127: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 13
+  order: 148
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+111: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 12
+  order: 149
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+176: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 150
+  parent_id: 111
+  scroll_x: 320
+  scroll_y: 272
+177: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 151
+  parent_id: 111
+  scroll_x: 320
+  scroll_y: 240
+178: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 152
+  parent_id: 111
+  scroll_x: 320
+  scroll_y: 240
+150: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 14
+  order: 153
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 2304
+149: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 15
+  order: 154
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 2304
+148: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 16
+  order: 155
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+147: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 17
+  order: 156
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+146: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 18
+  order: 157
+  parent_id: 0
+  scroll_x: 2304
+  scroll_y: 768
+141: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 19
+  order: 158
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 2304
+115: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 13
+  order: 159
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+179: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 160
+  parent_id: 115
+  scroll_x: 320
+  scroll_y: 240
+180: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 161
+  parent_id: 115
+  scroll_x: 320
+  scroll_y: 240
+137: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 20
+  order: 162
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+145: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 21
+  order: 163
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 2304
+139: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 22
+  order: 164
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+106: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 14
+  order: 165
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+181: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 166
+  parent_id: 106
+  scroll_x: 320
+  scroll_y: 272
+182: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 167
+  parent_id: 106
+  scroll_x: 320
+  scroll_y: 240
+183: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 168
+  parent_id: 106
+  scroll_x: 320
+  scroll_y: 240
+132: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 23
+  order: 169
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+103: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 15
+  order: 170
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+184: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Gym
+  order: 171
+  parent_id: 103
+  scroll_x: 320
+  scroll_y: 272
+185: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 172
+  parent_id: 103
+  scroll_x: 320
+  scroll_y: 240
+186: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 173
+  parent_id: 103
+  scroll_x: 320
+  scroll_y: 240
+142: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 24
+  order: 174
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+143: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 25
+  order: 175
+  parent_id: 0
+  scroll_x: 1536
+  scroll_y: 768
+100: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 16
+  order: 176
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+187: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 177
+  parent_id: 100
+  scroll_x: 320
+  scroll_y: 240
+188: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 178
+  parent_id: 100
+  scroll_x: 320
+  scroll_y: 240
+125: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 26
+  order: 179
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+134: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 27
+  order: 180
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 1536
+117: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 17
+  order: 181
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+189: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 182
+  parent_id: 117
+  scroll_x: 320
+  scroll_y: 240
+190: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 183
+  parent_id: 117
+  scroll_x: 320
+  scroll_y: 240
+123: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 28
+  order: 184
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+112: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 18
+  order: 185
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+191: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 186
+  parent_id: 112
+  scroll_x: 320
+  scroll_y: 240
+192: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 187
+  parent_id: 112
+  scroll_x: 320
+  scroll_y: 240
+124: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 29
+  order: 188
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+119: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 19
+  order: 189
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+193: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 190
+  parent_id: 119
+  scroll_x: 320
+  scroll_y: 240
+194: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 191
+  parent_id: 119
+  scroll_x: 320
+  scroll_y: 240
+121: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 30
+  order: 192
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+116: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: City 20
+  order: 193
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768
+195: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Pokemon Center
+  order: 194
+  parent_id: 116
+  scroll_x: 320
+  scroll_y: 240
+196: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: PokeMart
+  order: 195
+  parent_id: 116
+  scroll_x: 320
+  scroll_y: 240
+131: !ruby/object:RPG::MapInfo
+  expanded: false
+  name: Route 31
+  order: 196
+  parent_id: 0
+  scroll_x: 768
+  scroll_y: 768

@@ -1,0 +1,262 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = ¡No! ¡He perdido!
+Pokemon = RATTATA,3
+Pokemon = EKANS,2
+#-------------------------------
+[PICNICKER,Soria]
+LoseText = Wow, nunca pensé que perdería
+Pokemon = DODUO,10
+#-------------------------------
+[CAMPER,Alberto]
+LoseText = Alguna día prometo que Sevilla tendrá playa
+Pokemon = JIGGLYPUFF,8
+#-------------------------------
+[PICNICKER,Vanesa]
+LoseText = Vaya por dios
+Pokemon = ODDISH,6
+Pokemon = SKITTY,7
+#-------------------------------
+[ENGINEER,Ernesto]
+LoseText = Venga va, ven conmigo y te pago la cerveza.
+Pokemon = RATTATA,10
+Pokemon = RATTATA,11
+#-------------------------------
+[LASS,Valentina]
+LoseText = Fuah, no pensaba que serias tan fuerte.
+Pokemon = EEVEE,10
+Pokemon = MUNCHLAX,12
+#-------------------------------
+[LEADER_Alejandro,Alejandro]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Mejor me iré a echarme una siesta.
+Pokemon = SLAKOTH,12
+    Gender = male
+    Moves = FEINTATTACK,HEADSMASH,YAWN,ENCORE
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = FEROCUERNO,14
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,REST,TAKEDOWN,PROTECT
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[COOLTRAINER_M,Jesus]
+LoseText = ¡Nuestro trabajo en equipo falló!
+Pokemon = PANPOUR,12
+#-------------------------------
+[COOLTRAINER_F,Roberta]
+LoseText = ¡Nuestro trabajo en equipo falló!
+Pokemon = PANSAGE,12
+#-------------------------------
+[AROMALADY,Julieta]
+LoseText = ¡Como te dije, tampoco estamos tan unidos a veces!
+Pokemon = ODDISH,10
+Pokemon = TAURBON,13
+#-------------------------------
+[BIRDKEEPER,Ramon]
+LoseText = Vaya torbulencias había.
+Pokemon = PIDGEY,10
+Pokemon = HOOTHOOT,10
+Pokemon = TAILLOW,10
+Pokemon = STARLY,10
+Pokemon = PIDOVE,10
+Pokemon = FLETCHLING,10
+#-------------------------------
+[HIKER, Max]
+LoseText = ¡Eres mejor que yo!
+Pokemon = GEODUDE, 12
+AbilityIndex = 1
+#-------------------------------
+[AROMALADY, Sofia]
+LoseText = ¡Wow, no me esperaba este resultado!
+Pokemon = ODDISH,10
+#-------------------------------
+[FISHERMAN, Adolfo]
+LoseText = Mejor me vuelvo a pescar
+Pokemon = MAGIKARP,8
+Pokemon = MAGIKARP,8
+Pokemon = MAGIKARP,8
+Pokemon = GOLDEEN, 9
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = ¡Eres mejor que yo!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = ¡Buen combate!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = ¡Me has vuelto a ganar!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = ¡Derrotado! ¡Oh, no!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Derrotado! ¡Oh, no!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = ¡Eres mejor que yo!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = ...
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = ¡Mi Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = ¡No tenías que ganar tan convincentemente!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = ¡Nuestro trabajo en equipo falló!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = ...
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Alex]
+LoseText = No está nada mal.
+Pokemon = PIDGEY,5
+Pokemon = CAFE,7
+#-------------------------------
+[RIVAL1,Alex,1]
+LoseText = No está nada mal.
+Pokemon = PIDGEY,5
+Pokemon = CAFE,7
+#-------------------------------
+[RIVAL1,Alex,2]
+LoseText = No está nada mal.
+Pokemon = PIDGEY,3
+Pokemon = QUORKKI,7
+#-------------------------------
+[CHAMPION,Alex]
+LoseText = ¡Buen combate!
+Pokemon = RYURIZARD,63
+    Item = SITRUSBERRY
+#-------------------------------
+[GENTLEMAN, Arnau]
+LoseText = Estar en este bosque me apacigua la derrota.
+Pokemon = SEEDOT, 10
+Pokemon = PHANTUMP, 12
+#-------------------------------
+[BUGCATCHER, Antonio]
+LoseText = Veo que vienes preparado al gimnasio
+Pokemon = CHESPIN, 15
+Pokemon = COTTONEE, 15
+#-------------------------------
+[POKEMONBREEDER, Elisa]
+LoseText = Noo, se me olvidó ponerle el mineral evolutivo
+Pokemon = LOTAD, 18
+#-------------------------------
+[GENTLEMAN, Martin]
+LoseText = No estoy en mis buenos tiempos
+Pokemon = PETILIL, 16
+Pokemon = PANSAGE, 16
+#-------------------------------
+[BUGCATCHER, Ramón]
+LoseText = Mucha suerte con la líder
+Pokemon = GROTLE, 18
+#-------------------------------
+[LEADER_Petunia, Petunia]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Felicidades por tu segunda medalla
+Pokemon = CHERUBI,19
+    Gender = male
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ROSELIA,20
+    Gender = female
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+Pokemon = BAYLEEF2, 21
+    Gender = female
+    AbilityIndex = 0
+    Shiny = yes
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[GENTLEMAN, Ivan]
+LoseText= Pues tan buen día no hacía
+Pokemon = GROWLITHE, 18
+Pokemon = PINECO, 18
+#-------------------------------
+[HIKER, Mario]
+LoseText = Me distraje con esa piedra
+Pokemon = GEODUDE, 16
+Pokemon = GEODUDE, 18
+#-------------------------------
+[LASS, "Aurora"]
+LoseText = Subiré este combate a Pokegram, ha sido impresionante
+Pokemon = PONYTA, 18
+Pokemon = AIPOM, 18
+Pokemon = SHINX, 18
+#-------------------------------
+[PSYCHIC_F, "Sofía"]
+LoseText = No predije ese movimiento
+Pokemon = PSYDUCK, 18
+Pokemon = MEDITITE, 17
+#-------------------------------
+[HIKER, "Julián"]
+LoseText = Se me agotaron las energias de tanto andar
+Pokemon = RHYHORN, 19
+#-------------------------------
+[BLACKBELT, "Lario"]
+LoseText = Quiero venganza algún día
+Pokemon = THROH, 17
+Pokemon = SAWK, 16
+#-------------------------------
+[BLACKBELT, "Perseo"]
+LoseText = La venganza es mi destino inmutable.
+Pokemon = GURDURR, 17
+Pokemon = BRELOOM, 19
+#-------------------------------
+[CUEBALL, "Sarco"]
+LoseText = Cada desafío me acerca a mi revancha.
+Pokemon = LAIRON, 18
+Pokemon = VIBRAVA, 17
+Pokemon = GEODUDE, 18
+#-------------------------------
+[HIKER, "Carlos"]
+LoseText = La furia me impulsa hacia la victoria.
+Pokemon = CRUSTLE, 20
+#-------------------------------
+[RIVAL1, "Alex", 3]
+LoseText = Se nota que has superado 2 gimnasios.
+Pokemon = RIOLU, 19
+Pokemon = FLOETTE_5, 19
+Pokemon = DUSCLOPS, 19
+Pokemon = CAFE, 22
+#-------------------------------
+[RIVAL1, "Alex", 4]
+LoseText = Se nota que has superado 2 gimnasios.
+Pokemon = RIOLU, 19
+Pokemon = FLOETTE_5, 19
+Pokemon = DUSCLOPS, 19
+Pokemon = CAFE, 22
+#-------------------------------

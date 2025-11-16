@@ -1,0 +1,205 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Pueblo Hikari
+Name = Pueblo Hikari
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # Casa de \PN
+Name = Casa de \PN
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]   # Laboratorio de Hana
+Name = Laboratorio de Hana
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[042]   # Ruta 1
+Name = Ruta 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,12
+BattleBack = field
+#-------------------------------
+[005]   # Pueblo Mizukami
+Name = Pueblo Mizukami
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,12
+BattleBack = field
+#-------------------------------
+[006]   # Centro Pokemon Mizukami
+Name = Pueblo Mizukami
+HealingSpot = 5,14,13
+MapPosition = 0,15,12
+#-------------------------------
+[006]   # Tienda Pokemon Mizukami
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[009]   # Escuela Mizukami
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[010]   # Casa Random 1
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[011]   # Casa Random 2
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[012]   # Casa Random 3
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[013]   # Casa Random 4
+Name = Pueblo Mizukami
+MapPosition = 0,15,12
+#-------------------------------
+[014]   # Ruta 2
+Name = Ruta 2
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,11
+BattleBack = field
+#-------------------------------
+[015]   # Ruta 3
+Name = Ruta 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,10
+BattleBack = water
+#-------------------------------
+[016]   # Gruta Mizunaka
+Name = Gruta Mizunaka
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,10
+BattleBack = cave1
+#-------------------------------
+[017]   # Ciudad Shinrin
+Name = Ciudad Shinrin
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,9
+BattleBack = city
+#-------------------------------
+[020]   # Ruta 4
+Name = Ruta 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,11
+BattleBack = field
+#-------------------------------
+[021]   # Gimnasio Shinrin
+Name = Gimnasio Shinrin
+MapPosition = 0,15,9
+BattleBack = indoor3
+Flags = DisableBoxLink
+#-------------------------------
+[025]   # Ruta 5
+Name = Ruta 5
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[027]   # Ruta 6
+Name = Ruta 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = forest
+#-------------------------------
+[028]   # Ciudad Midorishi
+Name = Ciudad Midorishi
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+BattleBack = forest
+#-------------------------------
+[029]   # Páramo LightHole
+Name = Páramo LightHole
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = forest
+#-------------------------------
+[030]   # Gimnasio Midorishi
+Name = Gimnasio Midorishi
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,14
+BattleBack = forest
+Flags = DisableBoxLink
+#-------------------------------
+[036]   # Ruta 7
+Name = Ruta 7
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,13
+Battleback = field
+#-------------------------------
+[037]   # Ruta 8
+Name = Ruta 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,13
+Battleback = field
+#-------------------------------
+[038]	#Gruta Kingen
+Name = Gruta Kingen
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,14
+BattleBack = cave1
+#-------------------------------
+[039]	#Pueblo Subterraneo Dorunen
+Name= Pueblo Subterraneo Dorunen
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,14
+Battleback = field
+
+
+
+
+
+
+
+
+
+
+
+
+#-------------------------------
+[121]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[129]   # Natural Park Entrance
+Name = Natural Park
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[134]   # Ice Cave
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+

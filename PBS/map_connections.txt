@@ -1,0 +1,38 @@
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
+#-------------------------------
+# Ruta 1 (42) - Pueblo Hikari (2)
+42,West,0,2,East,0
+# Pueblo Hikari (2) - Parte Izquierda Hikari (66)
+2,West,0,66,East,0
+# Abajo Hikari (69) - Pueblo Hikari (2)
+69,North,12,2,South,0
+# Ruta 1 (42) - Pueblo Mizukami (5)
+42,East,0,5,West,0
+# Pueblo Mizukami (5) - Ruta 2 (14)
+5,North,0,14,South,0
+# Pueblo Mizukami (5) - Ruta 3 (15)
+5,South,0,15,North,0
+# Ruta 2 (14) - Ciudad Shinrin (17)
+14,North,0,17,South,0
+# Ciudad Shinrin (17) - Ruta 4 (20)
+17,West,0,20,East,0
+# Ruta 4 (20) - Ruta 5 (25)
+20,West,0,25,East,0
+#Ruta 6 (27)- Ciudad Midorishi (28)
+27,North,30,28,South,60
+#Ruta 6(27) - Páramo LightHole (29)
+27,West,30,29,East,32
+#Ciudad Midorishi(28) - Gimnasio Midorishi (30)
+28,West,0,30,East,0
+#Ciudad Midorishi (28) - Páramo LightHole(29)
+28,South,0,29,North,40
+#Páramo LightHole(29) - Arriba Páramo(31)
+29,North,0,31,South,0
+#Páramo LightHole(29) - Izquierda Páramo(34)
+29,West,0,34,East,0
+#Páramo LightHole(29) - Abajo Páramo(35)
+29,South,0,35,North,0
+#Ciudad Midorishi(28) - Ruta 7(36)
+28,North,0,36,South,0
+#Ruta 7(36) - Ruta 8(37)
+36, East, 0, 37, West, 0
